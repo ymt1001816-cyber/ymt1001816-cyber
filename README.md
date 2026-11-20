@@ -19,7 +19,7 @@ M.S. Semiconductor Engineering, Northeastern University (May 2028) · Bay Area, 
 <img src="assets/cache.svg" width="72" alt=""><br>
 <b><a href="https://github.com/ymt1001816-cyber/cache-rtl-to-signoff">1 KB Cache: RTL to Signoff</a></b><br>
 45 nm cache taken from Verilog to a DRC-clean, LVS-correct layout, then made testable and low-power.
-<p><b>UVM 100% functional coverage · 4/4 planted bugs caught · LEC proves RTL = netlist = layout · clock gating cuts power 86% while scan coverage stays at 99.84%</b></p>
+<p><b>UVM 100% functional coverage · 4/4 planted bugs caught · LEC proves RTL = netlist = layout · clock gating cuts real-activity power 86% with scan coverage kept at 99.84%</b></p>
 <code>UVM</code> <code>cocotb</code> <code>formal</code> <code>Innovus</code> <code>OpenROAD</code> <code>scan/ATPG</code> <code>MBIST</code>
 </td>
 <td width="50%" valign="top">
