@@ -5,7 +5,7 @@
 I build small chips end to end and don't trust one check: every chip design here is verified by simulation, a reference model **and** formal proof, then taken to a signed-off layout.
 M.S. Semiconductor Engineering, Northeastern University (May 2028) · Bay Area, CA.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-kuo-bba758354/) ![Open to](https://img.shields.io/badge/Open%20to-Summer%202027%20internships-2ea44f) ![Focus](https://img.shields.io/badge/Focus-DV%20%C2%B7%20RTL%20%C2%B7%20DFT-0F766E)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?logo=adobeacrobatreader&logoColor=white)](MeiYu_Kuo_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiyu-kuo-bba758354/) ![Open to](https://img.shields.io/badge/Open%20to-Summer%202027%20internships-2ea44f) ![Focus](https://img.shields.io/badge/Focus-DV%20%C2%B7%20RTL%20%C2%B7%20DFT-0F766E)
 
 **Keywords:** `Verilog` `SystemVerilog` `UVM` `SVA` `cocotb` `Formal (SymbiYosys)` `Conformal LEC` `CDC` `Scan / ATPG` `MBIST` `Genus` `Innovus` `OpenROAD` `STA` `Virtuoso` `Python` `TCL` `CI/CD`
 
