@@ -5,7 +5,7 @@
 I build small chips end to end and don't trust one check: every chip design here is verified by simulation, a reference model **and** formal proof, then taken to a signed-off layout.
 M.S. Semiconductor Engineering, Northeastern University (May 2028) · Bay Area, CA.
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?logo=adobeacrobatreader&logoColor=white)](MeiYu_Kuo_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiyu-kuo-bba758354/) ![Open to](https://img.shields.io/badge/Open%20to-Summer%202027%20internships-2ea44f) ![Focus](https://img.shields.io/badge/Focus-DV%20%C2%B7%20RTL%20%C2%B7%20DFT-0F766E)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?logo=adobeacrobatreader&logoColor=white)](MeiYu_Kuo_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meiyu-kuo-bba758354/) ![Focus](https://img.shields.io/badge/Focus-DV%20%C2%B7%20RTL%20%C2%B7%20DFT-0F766E)
 
 **Keywords:** `Verilog` `SystemVerilog` `UVM` `SVA` `cocotb` `Formal (SymbiYosys)` `Conformal LEC` `CDC` `Scan / ATPG` `MBIST` `Genus` `Innovus` `OpenROAD` `STA` `Virtuoso` `Python` `TCL` `CI/CD`
 
@@ -55,4 +55,4 @@ Python tool that drives a B1500A or SCPI SMU, extracts Vth / SS / DIBL and write
 - **Reproducible.** Every repo runs its full regression in GitHub Actions on every push; the open-source layout flow runs there too.
 - **Design for test, not after.** Low-power and DFT were built together, so clock gating didn't cost scan coverage.
 
-<sub>Looking for Summer 2027 internships in design verification, RTL design or DFT. Happy to walk through any of these projects.</sub>
+<sub>Happy to walk through any of these projects.</sub>
